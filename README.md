@@ -54,7 +54,7 @@
   <li> 💻 Workspace Spec 🔝:</li>
   <br/>
   <p align="left">
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
     <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   </p>
 </ul>
