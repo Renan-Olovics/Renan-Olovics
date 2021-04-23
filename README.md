@@ -51,7 +51,7 @@
       </a>
   </p>
 
-    <li> 💻 Workspace Spec 🔝:</li>
+  <li> 💻 Workspace Spec 🔝:</li>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
