@@ -10,7 +10,7 @@
   📫 How to find me:
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)](https://www.linkedin.com/in/renan-olovics-aa638a138/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=contact.italo.carvalho@gmail.com)](mailto:renanolovics@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renanolovics@gmail.com)](mailto:renanolovics@gmail.com)
 
 ## #Knowledge 📚
 <ul>  
@@ -47,7 +47,9 @@
   <li> 🎶 Songs:</li>
   <br/>
   <p align="left">
-  [![Spotify Badge](  https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/recrirr87?si=zR4H4q85R06MbWjCHBIDFw8/)
+
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/recrirr87?si=zR4H4q85R06MbWjCHBIDFw8)
+
   </p>
 
   <li> 💻 Workspace Spec 🔝:</li>
