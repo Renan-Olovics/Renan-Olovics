@@ -43,21 +43,6 @@
     <img src="https://img.shields.io/badge/Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-  <li> 🎶 Songs:</li>
-  <br/>
-  <p align="left">
-
-  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/recrirr87?si=zR4H4q85R06MbWjCHBIDFw8)
-
-  </p>
-
-  <li> 💻 Workspace Spec 🔝:</li>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-    <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  </p>
 </ul>
 
 
@@ -80,3 +65,19 @@
   </a>
 </p>
 
+## #About Myself 
+
+  <li> 🎶 Songs:</li>
+  <br/>
+  <p align="left">
+
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/recrirr87?si=zR4H4q85R06MbWjCHBIDFw8)
+
+  </p>
+
+  <li> 💻 Workspace Spec 🔝:</li>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  </p>
