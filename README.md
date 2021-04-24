@@ -47,9 +47,7 @@
   <li> 🎶 Songs:</li>
   <br/>
   <p align="left">
-      <a src="https://open.spotify.com/user/recrirr87?si=zR4H4q85R06MbWjCHBIDFw">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-      </a>
+  [![Spotify Badge](  https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/recrirr87?si=zR4H4q85R06MbWjCHBIDFw8/)
   </p>
 
   <li> 💻 Workspace Spec 🔝:</li>
