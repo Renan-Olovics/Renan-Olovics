@@ -30,7 +30,6 @@
   <br/>
   <p align="left">
       <img src="https://img.shields.io/badge/Next-E1E2E7?style=for-the-badge&logo=next.js&logoColor=000000">
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
       <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
   </p>
