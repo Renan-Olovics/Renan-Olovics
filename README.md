@@ -55,14 +55,14 @@
 
 ## #Github Info:octocat:
 <p align="start">
-  <a href="https://github.com/Renan-Olovics/github-readme-stats">
+  <a href="https://github.com/Renan-Olovics/">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=Renan-Olovics&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
     />
   </a>
-  <a href="https://github.com/ifaithfrost/github-readme-stats">
+  <a href="https://github.com/Renan-Olovics/">
     <img
       align="center"
       height="165"
