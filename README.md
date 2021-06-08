@@ -9,8 +9,7 @@
 
   📫 How to find me:
   
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)](https://www.linkedin.com/in/renan-olovics-aa638a138/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renanolovics@gmail.com)](mailto:renanolovics@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)](https://www.linkedin.com/in/renan-olovics-aa638a138/)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renanolovics@gmail.com)](mailto:renanolovics@gmail.com)[![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&Link=https://gitlab.com/Renan-Olovics)](https://gitlab.com/Renan-Olovics)[![GitBucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/Recri)
 
 ## #Knowledge 📚
 <ul>  
