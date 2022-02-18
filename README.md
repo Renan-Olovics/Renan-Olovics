@@ -84,5 +84,5 @@
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-    <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img src="https://img.shields.io/badge/AMD-RYZEN_9_5900X-C57119?style=for-the-badge&logo=amd&logoColor=orange">
   </p>
