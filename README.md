@@ -29,13 +29,13 @@
   </p>
   
   <li> 🎓 Studying:</li>
-  <br/>
+  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
   <p align="left">
 
   </p>
 
-  <li> 🎓 Planning for future:</li>
-  <br/>
+<!--   <li> 🎓 Planning for future:</li>
+  <br/> -->
   <p align="left">
       
   </p>
