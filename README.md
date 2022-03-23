@@ -29,7 +29,7 @@
   </p>
   
   <li> 🎓 Studying:</li>
-  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
   <p align="left">
 
   </p>
