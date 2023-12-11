@@ -149,3 +149,6 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/renan-olovics/renan-olovics/output/snake.svg" alt="Snake animation" />
+
