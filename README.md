@@ -30,9 +30,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-<a href="https://www.linkedin.com/in/renan-olovics/">Linkedin</a>
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
